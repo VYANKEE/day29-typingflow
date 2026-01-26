@@ -1,16 +1,45 @@
-# React + Vite
+# TypeFlow | The Ultimate Flow State Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![TypeFlow Banner](https://via.placeholder.com/1000x500?text=TypeFlow+Preview) 
+## 🚀 Overview
 
-Currently, two official plugins are available:
+**TypeFlow** is a high-performance, immersive typing application designed to help users achieve a "flow state." Unlike traditional typing tests, TypeFlow emphasizes precision and rhythm. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It features a **"Hard Mode"** engine where the **Backspace key is disabled**, forcing users to focus on accuracy and forward momentum rather than correction. Built with a modern neon-cyberpunk aesthetic, it provides instant visual feedback and zero-latency interaction.
 
-## React Compiler
+## ✨ Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **🔒 Hard Mode (Strict Typing):** The Backspace key is intentionally disabled. Users cannot correct mistakes, mimicking the experience of a typewriter and enforcing absolute focus.
+- **⚡ Zero Latency Architecture:** Optimized React state management ensures the cursor moves instantly with every keystroke, providing a "buttery smooth" feel.
+- **🎨 Dynamic Visuals:** - **Neon/Cyberpunk Theme:** Glowing text effects and animated aurora backgrounds.
+  - **Glassmorphism:** Modern UI elements with frosted glass effects.
+  - **Interactive Feedback:** Correct letters glow; incorrect inputs trigger visual shake effects or error highlighting.
+- **📊 Real-Time Metrics:**
+  - Live **WPM** (Words Per Minute) calculation.
+  - Dynamic **Accuracy** tracking.
+- **📱 Fully Responsive:** Works seamlessly on desktops, tablets, and modern mobile browsers.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend Library:** [React.js](https://react.dev/) (Vite)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** CSS Keyframes & Tailwind Utilities
+- **Deployment:** Vercel / Netlify
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+1.  **Clone the Repository**
+    ```bash
+    git clone [https://github.com/your-username/typeflow.git](https://github.com/your-username/typeflow.git)
+    cd typeflow
+    ```
+
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run Development Server**
+    ```bash
