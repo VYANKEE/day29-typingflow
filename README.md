@@ -1,10 +1,11 @@
-# TypeFlow | The Ultimate Flow State Experience
+
+ # 29 day of 45 days Coding challenge - : TypeFlow | The Ultimate Flow State Experience
 
 
 
 **TypeFlow** is a high-performance, immersive typing application designed to help users achieve a "flow state." Unlike traditional typing tests, TypeFlow emphasizes precision and rhythm. 
 
-It features a **"Hard Mode"** engine where the **Backspace key is disabled**, forcing users to focus on accuracy and forward momentum rather than correction. Built with a modern neon-cyberpunk aesthetic, it provides instant visual feedback and zero-latency interaction.
+It features a **"Hard Mode"** engine where the **Backspace key is disabled**, forcing users to focus on accuracy and forward momentum rather than correction. Built with a modern aesthetic, it provides instant visual feedback and zero-latency interaction.
 
 ## ✨ Key Features
 
@@ -23,5 +24,8 @@ It features a **"Hard Mode"** engine where the **Backspace key is disabled**, fo
 - **Frontend Library:** [React.js](https://react.dev/) (Vite)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Animations:** CSS Keyframes & Tailwind Utilities
-- **Deployment:** Vercel /
+- **Deployment:** Vercel
+
+##Live Demo - : (https://day29-typingflow.vercel.app/)
+
 
