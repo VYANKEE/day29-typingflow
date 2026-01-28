@@ -11,7 +11,7 @@ It features a **"Hard Mode"** engine where the **Backspace key is disabled**, fo
 
 - **🔒 Hard Mode (Strict Typing):** The Backspace key is intentionally disabled. Users cannot correct mistakes, mimicking the experience of a typewriter and enforcing absolute focus.
 - **⚡ Zero Latency Architecture:** Optimized React state management ensures the cursor moves instantly with every keystroke, providing a "buttery smooth" feel.
-- **🎨 Dynamic Visuals:** - **Neon/Cyberpunk Theme:** Glowing text effects and animated aurora backgrounds.
+- **🎨 Dynamic Visuals:** - **Neon/Cyberpunk Theme:** Glowing text effects and animated aurora backgrounds.   
   - **Glassmorphism:** Modern UI elements with frosted glass effects.
   - **Interactive Feedback:** Correct letters glow; incorrect inputs trigger visual shake effects or error highlighting.
 - **📊 Real-Time Metrics:**
